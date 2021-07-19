@@ -12,4 +12,6 @@ Referência inicial:
 Livro relacionado (inglês):
 - https://www.amazon.com.br/Forbidden-essential-dictionary-authoritative-offensive/dp/8808078302
 
-Quando encontrar um palavrão no texto da mensagem, trocar pelo emoji 🤬 (Caractere unicode)
+Quando encontrar um palavrão no texto da mensagem, trocar pelo emoji 🤬 (Caractere unicode)<br>
+https://emojipedia.org/face-with-symbols-on-mouth/
+
